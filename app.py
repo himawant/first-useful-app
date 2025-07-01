@@ -10,8 +10,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import google.generativeai as genai
 
 # --- Configuration ---
-YOUTUBE_API_KEY = "AIzaSyDZL9z1rA7J0nUgSfZimmDJJ9106A_1NWA"
-GEMINI_API_KEY = "AIzaSyDeryHO6nARUUWzXEmSRgjrJtGmIgoWZoU" # IMPORTANT: Replace with your actual Gemini API key
+YOUTUBE_API_KEY = "API"
+GEMINI_API_KEY = "API" # IMPORTANT: Replace with your actual Gemini API key
 DATA_FILE = "mindfultube_data.json"
 DAILY_VIDEO_LIMIT = 2 # Number of videos to "feed" per day
 
