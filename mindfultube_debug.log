@@ -1,0 +1,36 @@
+2025-07-01 22:29:45,376 - INFO - MindfulTube application started.
+2025-07-01 22:29:45,376 - INFO - Command received: add
+2025-07-01 22:29:45,376 - INFO - add_playlist called with URL: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:29:45,376 - INFO - Extracting playlist ID from URL: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:29:45,376 - INFO - Extracted playlist ID: PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:29:45,376 - INFO - Attempting to load data from mindfultube_data.json
+2025-07-01 22:29:45,376 - INFO - mindfultube_data.json not found. Returning empty data structure.
+2025-07-01 22:29:45,376 - INFO - Fetching videos from playlist: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv...
+2025-07-01 22:29:45,376 - INFO - Building YouTube service.
+2025-07-01 22:29:45,376 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-01 22:29:45,378 - INFO - Fetching video IDs for playlist: PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:29:45,379 - DEBUG - URL being requested: GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv&maxResults=50&key=AIzaSyDZL9z1rA7J0nUgSfZimmDJJ9106A_1NWA&alt=json
+2025-07-01 22:29:45,845 - ERROR - Error fetching playlist items for PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv: 'kind'
+2025-07-01 22:29:45,846 - INFO - Found 0 video IDs for playlist PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv. Fetching video details...
+2025-07-01 22:29:45,846 - INFO - Finished fetching details for 0 videos.
+2025-07-01 22:29:45,846 - WARNING - No videos found in playlist https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv. Check URL or playlist content.
+2025-07-01 22:30:43,182 - INFO - MindfulTube application started.
+2025-07-01 22:30:43,182 - INFO - Command received: add
+2025-07-01 22:30:43,182 - INFO - add_playlist called with URL: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:30:43,182 - INFO - Extracting playlist ID from URL: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:30:43,182 - INFO - Extracted playlist ID: PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:30:43,182 - INFO - Attempting to load data from mindfultube_data.json
+2025-07-01 22:30:43,182 - INFO - mindfultube_data.json not found. Returning empty data structure.
+2025-07-01 22:30:43,182 - INFO - Fetching videos from playlist: https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv...
+2025-07-01 22:30:43,182 - INFO - Building YouTube service.
+2025-07-01 22:30:43,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-01 22:30:43,185 - INFO - Fetching video IDs for playlist: PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv
+2025-07-01 22:30:43,185 - DEBUG - URL being requested: GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv&maxResults=50&key=AIzaSyDZL9z1rA7J0nUgSfZimmDJJ9106A_1NWA&alt=json
+2025-07-01 22:30:43,666 - ERROR - Error fetching playlist items for PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv: 'kind'
+2025-07-01 22:30:43,666 - INFO - Found 0 video IDs for playlist PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv. Fetching video details...
+2025-07-01 22:30:43,666 - INFO - Finished fetching details for 0 videos.
+2025-07-01 22:30:43,666 - WARNING - No videos found in playlist https://youtube.com/playlist?list=PLVcB70hz-Vd2Hq3JBJOx-GpuYkM5a-cJv. Check URL or playlist content.
+2025-07-01 22:33:42,490 - INFO - MindfulTube application started.
+2025-07-01 22:33:42,490 - INFO - Command received: add
+2025-07-01 22:33:42,490 - INFO - Building YouTube service.
+2025-07-01 22:33:42,491 - INFO - file_cache is only supported with oauth2client<4.0.0
